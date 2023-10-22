@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+            "name": "Vintage Leather Jacket",
+            "description": "Classic black leather jacket from the 1980s.",
+            "size": "Medium",
+            "price": 150,
+            "categories": ["Clothing", "Vintage", "Outerwear"]
+        },
+        {
+            "name": "Retro Denim Jeans",
+            "description": "Authentic 1970s blue denim jeans with a bell-bottom style.",
+            "size": "32x32",
+            "price": 80,
+            "categories": ["Clothing", "Vintage", "Bottoms"]
+        },
+        {
+            "name": "Vintage Graphic T-Shirt",
+            "description": "Colorful graphic tee featuring a nostalgic design.",
+            "size": "Large",
+            "price": 25,
+            "categories": ["Clothing", "Vintage", "T-Shirts"]
+        },
+        {
+            "name": "Classic Bowtie",
+            "description": "Handcrafted silk bowtie in a timeless design.",
+            "size": "One Size",
+            "price": 30,
+            "categories": ["Accessories", "Vintage", "Classic"]
+        },
+        {
+            "name": "Vintage Wool Sweater",
+            "description": "Warm and stylish wool sweater from the 1960s.",
+            "size": "Large",
+            "price": 45,
+            "categories": ["Clothing", "Vintage", "Sweaters"]
+        },
+        {
+            "name": "Antique Pocket Watch",
+            "description": "Exquisite antique pocket watch with intricate engravings.",
+            "size": "One Size",
+            "price": 200,
+            "categories": ["Accessories", "Vintage", "Watches"]
+        },
+        {
+            "name": "1950s Fedora Hat",
+            "description": "Classic fedora hat in a vintage style from the 1950s.",
+            "size": "Medium",
+            "price": 35,
+            "categories": ["Accessories", "Vintage", "Hats"]
+        },
+        {
+            "name": "Retro Aviator Sunglasses",
+            "description": "Stylish aviator sunglasses with a retro look.",
+            "size": "One Size",
+            "price": 20,
+            "categories": ["Accessories", "Vintage", "Sunglasses"]
+        },
+        {
+            "name": "Vintage Leather Briefcase",
+            "description": "Stylish leather briefcase with a vintage touch.",
+            "size": "Large",
+            "price": 120,
+            "categories": ["Accessories", "Vintage", "Bags"]
+        }
+    ]
+}
